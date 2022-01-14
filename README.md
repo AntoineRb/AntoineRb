@@ -17,7 +17,7 @@
    
    * I'm starting to learn TypeScript and soon React.
    
-   * I like python because it offers a lot of possibilities (Web, Software, Robotics ...).
+   * I like python because it offers a lot of possibilities (Web, Software, Robotics...).
 
 
 <h2 align="center">Languages</h2>
