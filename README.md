@@ -22,7 +22,7 @@
 
 
 <div align="center">
-<img src="./img/html.png" width="40px" height="40px"> <img src="./img/css.png" width="40px" height="40px"> <img src="./img/sass.png" width="40px" height="40px"> <img src="./img/js.png" width="40px" height="40px"> <img src="./img/python.png" width="40px" height="40px">
+<img src="./img/html.png" width="40px" height="40px"> <img src="./img/css.png" width="40px" height="40px"> <img src="./img/sass.png" width="40px" height="40px"> <img src="./img/js.png" width="40px" height="40px"><img src="./img/react.png" width="40px" height="40px"> <img src="./img/python.png" width="40px" height="40px">
 </div>
 
 
