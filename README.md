@@ -15,8 +15,6 @@
    
    * I'm currently in Simplon bootcamp to become app developers.
    
-   * I'm starting to learn TypeScript and soon React.
-   
    * I like python because it offers a lot of possibilities (Web, Software, Robotics...).
 
 
