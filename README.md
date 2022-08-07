@@ -21,11 +21,11 @@
 
 <h3 align="center">Every project has a lot of questions and problems to solve, so never give up ! ;)</h3>
 
-- 🔭 I’m currently working on **Ekna-Home ( App for roommates )**
+- 🔭 I’m currently looking for **new challenges**
 
-- 🌱 I’m currently learning **Application design**
+- 🌱 I’m currently learning **application design**
 
-- 💬 Ask me about **NodeJs, Express, Typescript, Javascript, CSS, Sass, html and Linux...**
+- 💬 Ask me about **Node.js, Express, Typescript, Javascript, CSS, Sass, html and Linux...**
 
 <h2 align="center">Languages</h2>
 
