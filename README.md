@@ -26,6 +26,7 @@
 - 🌱 I’m currently learning **application design**
 
 - 💬 Ask me about **Node.js, Express, Typescript, Javascript, CSS, Sass, html and Linux...**
+- 🙉 Comming soon a secret Open Source Project ! 🙊
 
 <h2 align="center">Languages</h2>
 
