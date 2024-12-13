@@ -27,7 +27,7 @@
 
 - 💬 Ask me about **Node.js, Express, Typescript, Javascript, CSS, Sass, html and Linux...**
 
-<h2 align="center">Languages</h2>
+<h2 align="center">Techno</h2>
 
 
 <div align="center">
