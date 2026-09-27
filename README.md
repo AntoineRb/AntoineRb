@@ -48,10 +48,6 @@ I'm particularly interested in the point where an LLM stops being just a convers
 
 I'm following the **Hugging Face Agents Course** and experimenting with my own ideas along the way.
 
-One project I'd love to build is an **AI sales assistant for luxury retail**, something closer to the experience of having a good sales advisor in a store than simply asking an AI to recommend products.
-
-The idea is to understand the customer's preferences, budget and context, and use that information to create a genuinely useful shopping experience.
-
 ### 🧠 How I like to learn
 
 I tend to be curious about what's happening underneath the abstraction.
