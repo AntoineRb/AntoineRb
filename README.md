@@ -1,75 +1,95 @@
 
-<span align="center">
-  
-  ![](https://visitor-badge.laobi.icu/badge?page_id=AntoineRb.AntoineRb) [![Github](https://img.shields.io/github/followers/AntoineRb?label=Follow&style=social)](https://github.com/AntoineRb)
-  
-</span> 
-
-<div align="center">
-<h3>Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/@ardev0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ardev0" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/antoine-robert-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antoine robert" height="30" width="40" /></a>
-</p>
-</div>
-
+# Hey, I'm Antoine 👋
 ---
+### Software Engineer · Full-Stack · AI & Agents
 
-<h3 align="center">💬 About me</h3>
+I'm a software engineer from the **Lille area, France 🇫🇷**
 
-<h1 align="center">Hi 👋, I'm Antoine Robert</h1>
+I've been building web applications professionally for several years, mostly with **PHP/Laravel and Vue.js**. I've worked on production applications used internationally, dealing with APIs, third-party services, business logic and all the little things that come with keeping a real application running.
 
-<h3 align="center">Every project has a lot of questions and problems to solve, so never give up ! ;)</h3>
+These days, I'm spending more and more time exploring **AI, LLMs and AI agents**.
 
-- 🔭 I’m currently looking for **new challenges**
+Not just using them.
 
-- 🌱 I’m currently learning **application design**
+I want to understand how they work, how to connect them to real tools and data, and how to build useful systems around them.
 
-- 💬 Ask me about **Node.js, Express, Typescript, Javascript, CSS, Sass, html and Linux...**
+### 🧑‍💻 What I work with
+---
+**Backend**
 
-<h2 align="center">Techno</h2>
+PHP · Laravel · Node.js · Express · Python
 
+**Frontend**
 
-<div align="center">
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+Vue.js · JavaScript · TypeScript
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+**Cloud & tools**
 
-<br/>
+AWS · Docker · Git · GitLab · Datadog
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+**APIs & integrations**
 
+REST APIs · Salesforce · Adyen · Cegid · OneSignal · FCM · APNs
 
+I've also worked with serverless functions, monitoring, mobile webviews and quite a few integrations that seemed simple at first... until they weren't. 😅
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
+### 🤖 Currently learning
 
-<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-</div>
+I'm currently going deeper into **AI agent development**.
 
+I'm particularly interested in the point where an LLM stops being just a conversational interface and becomes part of an actual system:
 
-<h2 align="center">Stats</h2>
+🧠 reasoning
+🔧 tools
+📚 knowledge & RAG
+💾 memory
+🔄 workflows
+👀 evaluation & observability
 
+I'm following the **Hugging Face Agents Course** and experimenting with my own ideas along the way.
 
-<div align="center">
-  
-  
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AntoineRb&show_icons=true&theme=tokyonight&count_private=true)
-  <br/>
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AntoineRb&hide_border=true)
-</div>
+One project I'd love to build is an **AI sales assistant for luxury retail**, something closer to the experience of having a good sales advisor in a store than simply asking an AI to recommend products.
+
+The idea is to understand the customer's preferences, budget and context, and use that information to create a genuinely useful shopping experience.
+
+### 🧠 How I like to learn
+
+I tend to be curious about what's happening underneath the abstraction.
+
+If something works, that's great.
+
+But I usually end up asking:
+
+> **"Yeah, but why does it work like that?"**
+
+That's probably one of the reasons I've always enjoyed taking things apart and figuring out how they work.
+
+It also means I sometimes go down a rabbit hole for much longer than I originally planned. 😄
+
+### 📸 Away from the keyboard
+
+I'm also into **photography and photo printing**.
+
+I shoot digital photography and I'm getting more interested in **film photography and the whole process around making and printing photographs**.
+
+I really enjoy the physical side of photography: taking a picture, choosing the paper, printing it and actually having something tangible at the end.
+
+It's a nice change from software, where almost everything eventually ends up being pixels on a screen.
+
+### 🔭 Things I'm exploring
+
+🤖 AI agents & LLM applications
+⚙️ Automation & developer tooling
+☁️ Cloud & serverless architectures
+🧩 SaaS ideas
+📷 Photography, printing & film photography
+🧠 Understanding how things work under the hood
+
+### 📍 Lille, France
+
+Currently building things, learning new ones and occasionally disappearing down a technical rabbit hole.
+
+If you're working on something interesting around **AI, agents, SaaS or developer tools**, feel free to say hi.
+
+**Thanks for stopping by 👋**
+
